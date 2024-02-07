@@ -53,7 +53,7 @@ The company wants to understand the driving factors (or driver variables) behind
 - EDA by [Atanu Dutta](https://www.linkedin.com/in/atanudutta/)
 
 ## Contact
-Created by [@atanudutta-git] - feel free to contact me!
+Created by [@atanudutta-git](https://github.com/atanudutta-git/) - feel free to contact me!
 
 
 <!-- Optional -->
